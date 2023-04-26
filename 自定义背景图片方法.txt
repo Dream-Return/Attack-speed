@@ -1,3 +1,5 @@
 把你想要拿来当背景图片的图片更改名字为bg.png（把文件后缀名也改掉，不是bg.png.png）
 
 然后把图片丢进去backgroundimg文件夹里，点击覆盖
+
+记得backgroundimg文件夹跟计算器在同一个目录下面
